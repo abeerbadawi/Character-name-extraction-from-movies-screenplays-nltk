@@ -3,10 +3,9 @@
 In this code, we develop an algorithm to read the screenplays and automatically extract the character names from the screenplay as follow:
 
 1- We propose a solution to create training data
-
 2. We design two algorithm and compare between them.
-3. 
-4. We propose an evaluation metric and evaluate the result of your algorithm with the proposed metric.
+3. We propose an evaluation metric and evaluate the result of your algorithm with the proposed metric.
+
 
 This repository includes:
 
