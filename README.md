@@ -18,11 +18,11 @@ This repository includes:
 
 4- Results of each movie folder: includec each movie results as a csv file with three columns:
 
-   a) Method 1 extracted character names results 
+   a. Method 1 extracted character names results 
    
-   b) Method 2 extracted character names results
+   b. Method 2 extracted character names results
    
-   c) True label of the character names
+   c. True label of the character names
    
 5- Prformance evaluation folder: includes the performance evaluation for method 1 and method 2:
 
