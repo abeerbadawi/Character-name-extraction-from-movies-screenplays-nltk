@@ -1,4 +1,4 @@
-# Character-name-extraction-from-movies-screenplays-nltk
+# Character-name-extraction-from-movies-screenplays-nltk-Natural Language Processing 
 
 In this code, we develop an algorithm to read the screenplays and automatically extract the character names from the screenplay as follow:
 
