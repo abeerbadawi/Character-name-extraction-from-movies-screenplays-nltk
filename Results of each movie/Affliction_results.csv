@@ -1,0 +1,17 @@
+,Method 1,Method 2,True_label,mName
+0,BROWN,ALMA,ALMA,affliction
+1,CHICK,CHICK,CHICK,affliction
+2,CREDITS,HAND,HAND,affliction
+3,FRANKIE,JACK,JACK,affliction
+4,HAND,JILL,JILL,affliction
+5,HETTIE,LARIVIERE,LARIVIERE,affliction
+6,HORNER,LILLIAN,LILLIAN,affliction
+7,LARIVIERE,MARGIE,LUGENE,affliction
+8,LILLIAN,NICK,MARGIE,affliction
+9,LUGENE,POP,MEL GORDON,affliction
+10,ROLFE,ROLFE,MRS. GORDON,affliction
+11,None,TWOMBLEY,NICK,affliction
+12,None,WADE,POP,affliction
+13,None,None,ROLFE,affliction
+14,None,None,TWOMBLEY,affliction
+15,None,None,WADE,affliction

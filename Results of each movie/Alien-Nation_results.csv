@@ -1,0 +1,17 @@
+,Method 1,Method 2,True_label,mName
+0,ANGLE,ANGLE,ANGLE,alien nation
+1,CRAIS,CASSANDRA,CASSANDRA,alien nation
+2,GOLDRUP,FEDORCHUK,FEDORCHUK,alien nation
+3,HARCOURT,HARCOURT,HARCOURT,alien nation
+4,JETSON,JETSON,JETSON,alien nation
+5,KIPLING,KIPLING,KIPLING,alien nation
+6,KRISTIN,O'NEAL,MAFFET,alien nation
+7,SYKES,OPERATOR,O'NEAL,alien nation
+8,WATSON,PORTER,OPERATOR,alien nation
+9,WILTEY,QUINT,PORTER,alien nation
+10,None,SYKES,SYKES,alien nation
+11,None,TUGGLE,TUGGLE,alien nation
+12,None,WARNER,WARNER,alien nation
+13,None,WATSON,WINTER,alien nation
+14,None,WILTEY,WILTEY,alien nation
+15,None,WINTER,None,None

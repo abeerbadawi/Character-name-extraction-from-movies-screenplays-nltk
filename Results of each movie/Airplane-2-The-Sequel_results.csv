@@ -1,0 +1,21 @@
+,Method 1,Method 2,True_label,mName
+0,AID,DUNN,COMMISSIONER,airplane ii: the sequel
+1,CAROL,ELAINE,DUNN,airplane ii: the sequel
+2,DENTIST,JACOBS,ELAINE,airplane ii: the sequel
+3,ELAINE,JIMMY,JIMMY,airplane ii: the sequel
+4,FRANK,JOE,JOE,airplane ii: the sequel
+5,GUARD,JOHN,JOHN,airplane ii: the sequel
+6,GUIDE,KRAMER,KRUGER,airplane ii: the sequel
+7,JACOB,KRUGER,MARY,airplane ii: the sequel
+8,JACOBS,MAN,OVEUR,airplane ii: the sequel
+9,JIMMY,MARY,PORTER,airplane ii: the sequel
+10,JOHN,OVEUR,RECEPTIONIST,airplane ii: the sequel
+11,KRAMER,PORTER,ROK,airplane ii: the sequel
+12,RUMACK,ROK,RUMACK,airplane ii: the sequel
+13,SARG,RUMACK,SIMON,airplane ii: the sequel
+14,SCRAPS,SARG,STELLA,airplane ii: the sequel
+15,SCREEN,SIMON,TED,airplane ii: the sequel
+16,SIMON,STELLA,WIFE,airplane ii: the sequel
+17,STELLA,TED,None,None
+18,TED,TESTA,None,None
+19,WOMAN,WIFE,None,None

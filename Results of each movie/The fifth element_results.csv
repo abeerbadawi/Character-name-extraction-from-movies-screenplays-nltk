@@ -1,0 +1,23 @@
+,Method 1,Method 2,True_label,mName
+0,AIDE,AKANIT,CORNELIUS,the fifth element
+1,AKANIT,COP,DAVID,the fifth element
+2,BILLY,CORNELIUS,DIVA,the fifth element
+3,COMMANDER,DAVID,FINGER,the fifth element
+4,COPILOT,DIVA,GIRL,the fifth element
+5,CORNELIUS,GIRL,KOMMANDER,the fifth element
+6,DAVID,KOMMANDER,KORBEN,the fifth element
+7,KORBEN,KORBEN,LEELOO,the fifth element
+8,LEELOO,LEELOO,LOC RHOD,the fifth element
+9,MUNRO,MUGGER,MACTILBURGH,the fifth element
+10,PRIEST,MUNRO,MOTHER,the fifth element
+11,PROFESSOR,PILOT,MUGGER,the fifth element
+12,SCIENTIST,PRESIDENT,MUNRO,the fifth element
+13,SHADOW,PRIEST,PRESIDENT,the fifth element
+14,STAEDERT,PROFESSOR,PRIEST,the fifth element
+15,ZORG,SCIENTIST,PROFESSOR,the fifth element
+16,None,SHADOW,SECRETARY,the fifth element
+17,None,STAEDERT,SHADOW,the fifth element
+18,None,THAI,STAEDERT,the fifth element
+19,None,VOICE,THAI,the fifth element
+20,None,ZORG,VOICE,the fifth element
+21,None,None,ZORG,the fifth element

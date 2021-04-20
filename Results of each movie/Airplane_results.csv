@@ -1,0 +1,17 @@
+,Method 1,Method 2,True_label,mName
+0,AIRPLANE,BASTA,BERNICE,airplane!
+1,ELAINE,BERNICE,CAREY,airplane!
+2,JACK,CAREY,ELAINE,airplane!
+3,KRAMER,ELAINE,GIRL,airplane!
+4,MILTON,GIRL,GUNDERSON,airplane!
+5,RANDY,GUNDERSON,JACK,airplane!
+6,SHIRLEY,HINSHAW,JOEY,airplane!
+7,STRIKER,JACK,KRAMER,airplane!
+8,TURNANSKY,JOEY,LISA,airplane!
+9,None,KRAMER,MILTON,airplane!
+10,None,MILTON,MURDOCK,airplane!
+11,None,MURDOCK,OVEUR,airplane!
+12,None,OVEUR,RANDY,airplane!
+13,None,RANDY,SHIRLEY,airplane!
+14,None,SHIRLEY,SOLDIER,airplane!
+15,None,STRIKER,STRIKER,airplane!

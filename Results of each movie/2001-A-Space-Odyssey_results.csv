@@ -1,0 +1,16 @@
+,Method 1,Method 2,True_label,mName
+0,BOWMAN,BOWMAN,BOWMAN,2001: a space odyssey
+1,CONTINUED,CHILD,C12,2001: a space odyssey
+2,DELETED,CO-PILOT,CHILD,2001: a space odyssey
+3,GEAR,CONTINUED,CO-PILOT,2001: a space odyssey
+4,HAL,DELETED,ELENA,2001: a space odyssey
+5,HAND,ELENA,FLOYD,2001: a space odyssey
+6,LIGHT,FLOYD,HAL,2001: a space odyssey
+7,MICHAELS,HAL,MICHAELS,2001: a space odyssey
+8,MILLER,HALVORSEN,MILLER,2001: a space odyssey
+9,POOLE,MICHAELS,PILOT,2001: a space odyssey
+10,SIMONSON,MILLER,POOLE,2001: a space odyssey
+11,SMYSLOV,NARRATOR,SMYSLOV,2001: a space odyssey
+12,WINDOW,PILOT,None,None
+13,None,POOLE,None,None
+14,None,SMYSLOV,None,None
